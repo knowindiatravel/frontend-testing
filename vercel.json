@@ -5,6 +5,7 @@
     { "source": "/festivals", "destination": "/" },
     { "source": "/faqs", "destination": "/" },
     { "source": "/terms", "destination": "/" },
-    { "source": "/privacy", "destination": "/" }
+    { "source": "/privacy", "destination": "/" },
+    { "source": "/Update", "destination": "/" }
   ]
 }
